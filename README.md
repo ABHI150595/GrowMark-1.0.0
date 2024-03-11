@@ -1,9 +1,9 @@
-  =>  Template Name    : JMD Events and Permotions 
+=> Template Name : JMD Events and Permotions
 
-  =>  Template Link    : 
+=> Template Link :
 
-  =>  Template License : 
+=> Template License : sdjasyusau977899
 
-  =>  Template Author  : Abhijit Sharma
+=> Template Author : Abhijit Sharma
 
-  =>  Author Website   : https://portfolio1-mztr.onrender.com/
+=> Author Website : https://portfolio1-mztr.onrender.com/
